@@ -24,6 +24,7 @@ namespace Git
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             AuthConfig.RegisterAuth();
             AuthConfig.RegisterAuth();
+            AuthConfig.RegisterAuth();
         }
     }
 }
